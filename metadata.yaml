@@ -1,0 +1,41 @@
+_repo: A-szocziologia-vazlata_68168
+_version: 0.0.1
+alternative_title: Précis de sociologie. Hungarian
+contributor:
+  translator:
+    agent_name: Mikes, Lajos
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '54072'
+    url: http://www.gutenberg.org/2009/agents/54072
+    wikipedia: https://hu.wikipedia.org/wiki/Mikes_Lajos
+creator:
+  author:
+    agent_name: Palante, Georges
+    birthdate: 1862
+    deathdate: 1925
+    gutenberg_agent_id: '54637'
+    url: http://www.gutenberg.org/2009/agents/54637
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Georges_Palante
+    - https://fr.wikipedia.org/wiki/Georges_Palante
+description: ''
+gutenberg_issued: '2022-05-25'
+identifiers:
+  gutenberg: '68168'
+language: hu
+pgterms:marc905: 20220515003915palante
+pgterms:marc906: '1912'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Library
+  of the Hungarian Academy of Sciences
+publication_note: Hungary :Franklin,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sociology'
+- !lcc 'HM'
+- GITenberg
+title: A szocziológia vázlata
+url: http://www.gutenberg.org/ebooks/68168
